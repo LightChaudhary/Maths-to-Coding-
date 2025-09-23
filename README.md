@@ -1,4 +1,4 @@
-# 🧮 Math → 💻 Coding
+#  Math → Coding
 
 Connecting math to coding!  
 Matrix operations and linear equations become powerful tools in code — major building blocks for **machine learning, neural networks, and data transformation**.  
